@@ -1,0 +1,15 @@
+name = Parallax Portfolio
+core = 7.x
+engine phptemplate
+stylesheets[all][] = css/style.css
+scripts[] = js/scripts.js
+
+regions[page_top] = Page top
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[page_bottom] = Page bottom
+
+regions[sidebar_header] = Sidebar Header
+regions[navigation] = Navigation
+regions[sidebar_footer] = Sidebar Footer
